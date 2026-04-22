@@ -14,13 +14,13 @@ body{
 	gap:20px;
 }
 
-#left{
+.left{
 	width:450px;
 	margin-top:70px;
 	display:inline-block;
 }
 
-#left p{
+.left p{
 	margin-top:50px;
 	font-size:15px
 }
