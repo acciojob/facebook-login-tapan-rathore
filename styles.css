@@ -47,6 +47,7 @@ form button{
 	border-radius:5px;
 	padding:10px 20px;
 	width:100%;
+	border:none;
 }
 
 form a{
@@ -55,7 +56,12 @@ form a{
 }
 
 .signup{
-	background-color:#42b72a;
+	color:white;
+	background-color: #42b72a;
+	width:300px;
+	padding: 10px 20px;
+	margin-top:20px;
+	border:none;
 }
 
 
